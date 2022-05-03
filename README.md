@@ -6,8 +6,8 @@ Front-end, JavaScript, PHP and IoT Developer
 
 I am a Computer Engineer with experience in developing IoT solutions for healthcare, agriculture, home automation, and energy systems. Also, I develop Web applications using Bootstrap, JavaScript, PHP, and MySQL.
 
-* 🌍  I'm based in Ghana
-* ✉️  You can contact me at [faweenagua@gmail.com](mailto:faweenagua@gmail.com)
+* 🌍  I'm based in Ghana 🇬🇭
+* ✉️  You can contact me at [faweenagua@gmail.com](mailto:faweenagua@gmail.com)
 * 🚀  I'm currently working on [Forkify](http://github.com/Faweenagua/Forkify)
 * 🧠  I'm learning React and Node.js
 * 🤝  I'm open to collaborating on any interesting and exciting projects
