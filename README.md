@@ -45,16 +45,6 @@ src="https://img.shields.io/github/followers/Faweenagua?logo=github&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Faweenagua"><img src="https://github-readme-stats.vercel.app/api?username=Faweenagua&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="Faweenagua's GitHub stats" /></a>
-
-<a href="http://www.github.com/Faweenagua"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Faweenagua&stroke=0891b2&background=312e81&ring=0891b2&fire=0891b2&currStreakNum=0891b2&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
-
-<a href="http://www.github.com/Faweenagua"><img src="https://activity-graph.herokuapp.com/graph?username=Faweenagua&bg_color=312e81&color=0891b2&line=0891b2&point=0891b2&area_color=312e81&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Faweenagua" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faweenagua&langs_count=10&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Faweenagua/forkify" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Faweenagua&repo=forkify&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/Faweenagua/Mapy-JS-project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Faweenagua&repo=Mapy-JS-project&title_color=0891b2&text_color=0891b2&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
